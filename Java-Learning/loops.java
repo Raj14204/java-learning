@@ -14,5 +14,8 @@ public class loops {
         do {
             // syntax
         } while (i < 0);
+        for (String string : a) {
+
+        }
     }
 }
